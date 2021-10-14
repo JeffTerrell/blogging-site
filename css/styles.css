@@ -5,14 +5,55 @@
   display: block;
 }
 
-.my-class {
-  border: 2px solid green;
+.my-class-october {
+  border: 2px solid rgba(83, 199, 253, 0.589);
   padding: 10px;
-  background-color: orange;
+  background-color: rgb(196, 193, 189);
   display: block;
   margin: auto;
   margin-top: 20px;
   margin-bottom: 20px;
   width: 50%;
   box-sizing: border-box;
+}
+
+.my-class-september {
+  border: 2px solid rgba(83, 199, 253, 0.589);
+  padding: 10px;
+  background-color: rgba(157, 202, 245, 0.479);
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  box-sizing: border-box;
+}
+
+.my-class-introduction {
+  border: 2px solid rgba(83, 199, 253, 0.589);
+  padding: 10px;
+  background-color: rgb(255, 255, 255);
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  box-sizing: border-box;
+  font-size: large;
+  font-weight: 900;
+}
+
+.about-class {
+  border: 2px solid rgba(83, 199, 253, 0.589);
+  padding: 10px;
+  background-color: rgb(255, 255, 255);
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  box-sizing: border-box;
+  font-size: medium;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
 }
